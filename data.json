@@ -1,0 +1,57 @@
+{
+  "maticPrice": 2.42,
+  "total": {
+    "USD": "0.0114",
+    "MATIC": "0.004724653982819656"
+  },
+  "contract": {
+    "cost": {
+      "USD": "0.0090",
+      "MATIC": "0.0037055175"
+    }
+  },
+  "transactions": [
+    {
+      "name": "RoleGranted",
+      "cost": {
+        "USD": "0.0014",
+        "MATIC": "0.000573274623462068"
+      }
+    },
+    {
+      "name": "Transfer",
+      "cost": {
+        "USD": "0.0003",
+        "MATIC": "0.0001198222796988"
+      }
+    },
+    {
+      "name": "MetaTransactionExecuted",
+      "cost": {
+        "USD": "0.0002",
+        "MATIC": "0.000093820936506916"
+      }
+    },
+    {
+      "name": "MetaTransactionExecuted",
+      "cost": {
+        "USD": "0.0002",
+        "MATIC": "0.000091345331102144"
+      }
+    },
+    {
+      "name": "MetaTransactionExecuted",
+      "cost": {
+        "USD": "0.0002",
+        "MATIC": "0.000071014991704712"
+      }
+    },
+    {
+      "name": "MetaTransactionExecuted",
+      "cost": {
+        "USD": "0.0002",
+        "MATIC": "0.000069858320345016"
+      }
+    }
+  ]
+}
